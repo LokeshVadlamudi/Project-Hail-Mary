@@ -11,7 +11,7 @@
 
 **Goal:** Understand what you're optimizing before you optimize it.
 
-- [ ] How tokenization works (BPE, SentencePiece, tiktoken)
+- [x] How tokenization works (BPE, SentencePiece, tiktoken)
 - [ ] Embedding layers and positional encoding
 - [ ] Self-attention mechanism (Q, K, V matrices)
 - [ ] Multi-head attention — why and how
