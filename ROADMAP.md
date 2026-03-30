@@ -13,7 +13,7 @@
 
 - [x] How tokenization works (BPE, SentencePiece, tiktoken)
 - [x] Embedding layers and positional encoding
-- [ ] Self-attention mechanism (Q, K, V matrices)
+- [x] Self-attention mechanism (Q, K, V matrices)
 - [ ] Multi-head attention — why and how
 - [ ] Feed-forward layers, layer norms, residual connections
 - [ ] Full encoder-decoder vs decoder-only architecture
