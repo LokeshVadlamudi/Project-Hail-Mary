@@ -15,7 +15,7 @@
 - [x] Embedding layers and positional encoding
 - [x] Self-attention mechanism (Q, K, V matrices)
 - [x] Multi-head attention — why and how
-- [ ] Feed-forward layers, layer norms, residual connections
+- [x] Feed-forward layers, layer norms, residual connections
 - [ ] Full encoder-decoder vs decoder-only architecture
 - [ ] How autoregressive generation works (next-token prediction loop)
 
