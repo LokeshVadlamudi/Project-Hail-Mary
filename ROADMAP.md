@@ -16,7 +16,7 @@
 - [x] Self-attention mechanism (Q, K, V matrices)
 - [x] Multi-head attention — why and how
 - [x] Feed-forward layers, layer norms, residual connections
-- [ ] Full encoder-decoder vs decoder-only architecture
+- [x] Full encoder-decoder vs decoder-only architecture
 - [ ] How autoregressive generation works (next-token prediction loop)
 
 **Resources:**
