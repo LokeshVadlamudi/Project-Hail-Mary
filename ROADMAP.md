@@ -17,7 +17,7 @@
 - [x] Multi-head attention — why and how
 - [x] Feed-forward layers, layer norms, residual connections
 - [x] Full encoder-decoder vs decoder-only architecture
-- [ ] How autoregressive generation works (next-token prediction loop)
+- [x] How autoregressive generation works (next-token prediction loop)
 
 **Resources:**
 - "Attention Is All You Need" paper (the original transformer paper)
